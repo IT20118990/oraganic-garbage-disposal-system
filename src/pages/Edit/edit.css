@@ -1,0 +1,30 @@
+.profile_div img {
+  max-width: 56px;
+  border-radius: 50%;
+  border: 1px solid #111;
+}
+.custom {
+  background-color: #9cd6bb;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+
+  margin: auto;
+}
+.custom-button {
+  background-color: #010801;
+  border: none;
+  color: rgb(45, 49, 48);
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.custom-button:hover {
+  background-color: #6a6c6a;
+}

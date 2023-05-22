@@ -1,0 +1,16 @@
+.card-profile-stats img {
+  max-width: 86px;
+  border-radius: 50%;
+  border: 1px solid #111;
+}
+.address {
+  color: rgb(238, 101, 122);
+}
+
+.weight {
+  color: blue;
+}
+
+.calendar {
+  color: rebeccapurple;
+}
